@@ -1,7 +1,7 @@
 title: "Thoughts on money"
 email: 
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -27,7 +27,7 @@ authors:
   ruan:
     name: Ruan
     display_name: R
-    avatar: 'assets/images/sal.png'
+    avatar: 
     email: 
     web:
     twitter: 
